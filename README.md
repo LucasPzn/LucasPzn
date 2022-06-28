@@ -1,5 +1,6 @@
 ### Hi there 👋
-Knowledge is the key! 
+I'm **Lucas PREZELIN**⚡currently the Business Development Manager of [OKP4](https://okp4.network/)
+
 After several years of developing my skills in business development applied to the agricultural sector, I quickly became interested in innovation and in particular in the contribution of new disruptive technologies.
 
 Today, I put my experience, my curiosity and my agility at the service of the web3 by actively participating in the development of OKP4 which opens the doors to a new world, the knowledge economy.
@@ -8,7 +9,7 @@ OKP4 - The Open Knowledge Protocol for Everything & Everyone
 
 Interested in learning more? Let's connect! 
 
-#Dataspace #Dataverse #Blockchain #Datasharing #web3.0 #Tokenomics
+[![image](https://user-images.githubusercontent.com/92780073/142393015-7f73f6d0-d03d-48ad-94f2-082440436c3d.png)](https://www.linkedin.com/in/lucas-pr%C3%A9zelin-63113684//)
 <!--
 **LucasPzn/LucasPzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
