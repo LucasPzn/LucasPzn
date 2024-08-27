@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm **Lucas PREZELIN**⚡currently the Business Development Manager of [OKP4](https://okp4.network/)
+I'm **Lucas**⚡ specialized in Business Development
 
 After several years of developing my skills in business development applied to the agricultural sector, I quickly became interested in innovation and in particular in the contribution of new disruptive technologies.
 
-Today, I put my experience, my curiosity and my agility at the service of the web3 by actively participating in the development of OKP4 which opens the doors to a new world, the knowledge economy.
+Today, I put my experience, my curiosity and my agility at the service of the web3 by actively participating in the development of a new world, the knowledge economy.
 
-OKP4 - The Open Knowledge Protocol for Everything & Everyone
+
 
 Interested in learning more? Let's connect! 
 
